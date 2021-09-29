@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bashpoet
+- 👀 I’m interested in Linux, Unix, Bash and Shell
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me - tomaspellissaripavan@gmail.com
