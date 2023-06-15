@@ -7,4 +7,5 @@
 
 
 
- When I'm not coding, I love diving into the world of literature. Some of my favourite authors include Iain M Banks, known for his  expansive and thought-provoking science fiction, and Greg Egan, who masterfully blends hard science with deep human stories.  I also have a special place in my heart for the works of Jorge Luis Borges and Fernando Pessoa as Bernardo Soares. Their exploration of philosophical and existential themes never fail to leave me deep in thought.  Lastly, I can't forget to mention Gene Wolfe, whose richly layered, allusive writing style keeps me coming back for more. 
+
+    When I'm not coding, I love diving into the world of literature. Some of my favourite authors include Iain M Banks, known for his  expansive and thought-provoking science fiction, and Greg Egan, who intricately melds complex scientific concepts with hermetic meditations.I also have a special place in my heart for the works of Jorge Luis Borges and Fernando Pessoa as Bernardo Soares. Their exploration of philosophical and existential themes never fail to leave me deep in thought.  Lastly, I can't forget to mention Gene Wolfe, whose richly layered, allusive writing style keeps me coming back for more. 
